@@ -1,1 +1,1 @@
-# Rospnet demo application. Ethereum test 
+# Ropsten demo application. Ethereum test 
